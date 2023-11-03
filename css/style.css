@@ -127,7 +127,7 @@ nav h1 [class*="fa-"]{
   font-size: 100%;
 }
 nav a {
-  color: var(--pastel-purple);
+  color: var(--pastel-bubblegum);
   text-decoration: none;
   display: block;
 }
